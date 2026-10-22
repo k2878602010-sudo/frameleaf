@@ -1,0 +1,3 @@
+ed23dcf9443494303bc82f9f6463ae5a0ac3e44c9f296c07a1e3ce65f220fdbc  Frameleaf-0.1.0-preview-win-x64.zip
+3eebc49723295b0fd9d964eef493876908150b900dbd14351cfeaf8c402580e3  Frameleaf-Setup-0.1.0-preview-x64.exe
+a774607e8fea592f1491bd82f847f79c956ce2ccf7abd49c9d17b5c24c89fa82  Frameleaf-source-0.1.0-preview.zip
